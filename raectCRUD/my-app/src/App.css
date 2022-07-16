@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  border: 1px black;
+}
+
+thead{
+  background-color: rgb(97, 88, 88);
+  color: white;
+}
+.container1{
+  align-items: center;
+  text-align: center;
+  
+  background-color: rgb(214, 141, 51);
+  
+}
+.container2{
+  align-items: center;
+  text-align: center;
+  
+  background-color: rgb(214, 51, 209);
+  
+}
+.header{
+  align-items: center;
+  text-align: center;
+  
+  background-color: rgb(51, 214, 124);
+  
+}
+TextField{
+  margin: 10px;
+}
+
+
